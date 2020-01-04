@@ -11,8 +11,8 @@ Inputs:
 
 | Program | Assembly Time | Memory Used |
 | :-- | :-- | :-- | 
-| SOAPdenovo2 | <1 day | 
-| SAGE2 | <2 days | |
-| ABySS | >2 days | |
+| SOAPdenovo2 | <1 day |  more |
+| SAGE2 | <2 days | more |
+| ABySS | >2 days | more |
 | SGA | 5–19 days | <100GB |
 
