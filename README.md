@@ -1,5 +1,7 @@
 # large-genome-assembler
 
+GAGE is an evaluation of the very latest large-scale genome assembly algorithms.
+
 https://academic.oup.com/bioinformatics/article/34/4/678/4553153
 
 System:
