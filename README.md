@@ -9,10 +9,10 @@ System:
 Inputs:
 * Caenorhabditis elegans and Drosophila melanogaster
 
-| Program | Assembly Time | Memory Used |
-| :-- | :-- | :-- | 
-| SOAPdenovo2 | <1 day |  more |
-| SAGE2 | <2 days | more |
-| ABySS | >2 days | more |
-| SGA | 5–19 days | <100GB |
+| Algorithm | Assembly Time | Memory Used | Algorithm Class |
+| :-- | :-- | :-- | :-- | 
+| SOAPdenovo2 | <1 day |  more | de-bruijn-graph |
+| SAGE2 | <2 days | more | overlap–layout–consensus |
+| ABySS | >2 days | more | de-bruijn-graph |
+| SGA | 5–19 days | <100GB | overlap–layout–consensus |
 
