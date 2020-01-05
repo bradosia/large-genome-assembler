@@ -16,9 +16,9 @@ De-novo vs. mapping assembly
 | fastq | sequences with quality |
 | sam/bam | alignment |
 
-##mapping assembly
+## mapping assembly
 
-##De-novo assembly
+## De-novo assembly
 https://academic.oup.com/bioinformatics/article/34/4/678/4553153
 
 System:
