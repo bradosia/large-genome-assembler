@@ -10,6 +10,12 @@ De-novo vs. mapping assembly
 | Illumina | short | low |
 | PacBio/MinION | long | high |
 
+| File Type | Description |
+| :-- | :-- |
+| fasta | sequences |
+| fastq | sequences with quality |
+| sam/bam | alignment |
+
 ##mapping assembly
 
 ##De-novo assembly
@@ -28,4 +34,8 @@ Inputs:
 | SAGE2 | <2 days | more | overlap–layout–consensus |
 | ABySS | >2 days | more | de-bruijn-graph |
 | SGA | 5–19 days | <100GB | overlap–layout–consensus |
+
+| Algorithm | Algorithm Class | Output File |
+| MaSuRCA | deBruijn graph/Overlap-Layout-Consensus | fasta |
+
 
