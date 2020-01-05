@@ -18,9 +18,12 @@ De-novo vs. mapping assembly
 
 ## mapping assembly
 
+https://blog.dnanexus.com/2018-10-24-battling-aligners-benchmarking-tools-mock-metagenomes/
+
 | Algorithm | Output |
 | :-- | :-- |
-| Minimap2 | paf |
+| Minimap2 | paf or sam |
+| CUSHAW3 | sam |
 | bowtie2 | bt2 |
 
 ## De-novo assembly
