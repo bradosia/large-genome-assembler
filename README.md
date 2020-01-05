@@ -3,7 +3,8 @@
 https://en.wikipedia.org/wiki/List_of_sequence_alignment_software#Short-read_sequence_alignment
 
 GAGE is an evaluation of the very latest large-scale genome assembly algorithms.
-De-novo vs. mapping assembly
+
+De-novo vs. Mapping assembly
 
 | Sequencer | Reads | Error Rate |
 | :-- | :-- | :-- |
@@ -16,7 +17,7 @@ De-novo vs. mapping assembly
 | fastq | sequences with quality |
 | sam/bam | alignment |
 
-## mapping assembly
+## Mapping assembly
 
 https://blog.dnanexus.com/2018-10-24-battling-aligners-benchmarking-tools-mock-metagenomes/
 
