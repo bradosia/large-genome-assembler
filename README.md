@@ -1,7 +1,14 @@
 # large-genome-assembler
 
+https://en.wikipedia.org/wiki/List_of_sequence_alignment_software#Short-read_sequence_alignment
+
 GAGE is an evaluation of the very latest large-scale genome assembly algorithms.
 De-novo vs. mapping assembly
+
+| Sequencer | Reads | Error Rate |
+| :-- | :-- | :-- |
+| Illumina | short | low |
+| PacBio/MinION | long | high |
 
 ##mapping assembly
 
