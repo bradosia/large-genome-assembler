@@ -18,6 +18,12 @@ De-novo vs. mapping assembly
 
 ## mapping assembly
 
+| Algorithm |
+| :-- |
+| Minimap2 |
+
+bwa or bowtie2
+
 ## De-novo assembly
 https://academic.oup.com/bioinformatics/article/34/4/678/4553153
 
