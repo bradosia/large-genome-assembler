@@ -44,6 +44,7 @@ Inputs:
 | SGA | 5–19 days | <100GB | overlap–layout–consensus |
 
 | Algorithm | Algorithm Class | Output File |
+| :-- | :-- | :-- |
 | MaSuRCA | deBruijn graph/Overlap-Layout-Consensus | fasta |
 
 
